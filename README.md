@@ -5,7 +5,7 @@
 * [Task](#Task)
 * [User Story](#User-Story)
 * [Screenshot](#Screenshot)
-* [Github Pages Deployment](#Github-Pages-Deployment)
+* [GitHub Pages Deployment](#GitHub-Pages-Deployment)
 * [Contact Information](#Contact-Information)
 
 ## <a name="Task"></a>Task
@@ -22,9 +22,9 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 ## <a name="Screenshot"></a>Screenshot
 
+![Portfolio Screenshot](https://github.com/Diamante710/React_Portfolio/assets/120080703/f6052158-d3d1-4768-a58c-b8034c257c01)
 
-
-## <a name="Github Pages Deployment"></a>Github Pages Deployment
+## <a name="GitHub Pages Deployment"></a>GitHub Pages Deployment
 
 
 
