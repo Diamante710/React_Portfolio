@@ -1,27 +1,19 @@
-import React, { useEffect } from 'react';
+import React from 'react';
+import { Link } from 'react-router-dom';
 
 function Nav(props) {
-    const { pages = [], setCurrentPage, currentPage } = props;
-
-  useEffect(() => {
-    document.title = currentPage.name;
-  }, [currentPage]);
 
     return (
-        <nav>
-        <ul className="flex-row">
-          {pages.map((Page) => (
-            <li
-              className={`mx-5 ${currentPage.name === Page.name && "navActive"}`}
-              key={Page.name}
-            >
-              <span onClick={() => setCurrentPage(Page)}>
-                {Page.name}
-              </span>
-            </li>
-          ))}
-        </ul>
-      </nav>
+        <div>
+            <Link to="/" id ='About Me'> About Me</Link>
+            
+            <Link to="/portfolio" id ='Portfolio'> Portfolio</Link>
+            
+            <Link to="/contact" id ='Contact'> Contact</Link>
+            
+            <Link to="/resume" id ='Resume'> Resume</Link>
+        </div>
     )
 }
+
 export default Nav;

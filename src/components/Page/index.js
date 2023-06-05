@@ -6,8 +6,9 @@ import Contact from "../Contact";
 import Resume from "../Resume";
 
 function Page({ currentPage }) {
+  console.log(currentPage)
   const renderPage = () => {
-    switch (currentPage.name) {
+    switch (currentPage) {
       case "About Me":
         return <AboutMe />;
       case "Portfolio":
@@ -28,4 +29,5 @@ function Page({ currentPage }) {
     </div>
   );
 }
+
 export default Page;

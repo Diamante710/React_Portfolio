@@ -10,12 +10,12 @@ function Portfolio() {
       link: "",
       repo: "https://github.com/Diamante710/MERN_Book_Search_Engine.git",
     },
-    {
-      name: "How to make your kid hate you",
-      description: "JavaScript/Node/Express/SQL/Handle-bars/HTML/CSS",
-      link: "",
-      repo: "https://github.com/Diamante710/how_to_make_your_kids_hate_you.git",
-    },
+    // {
+    //   name: "How to make your kid hate you",
+    //   description: "JavaScript/Node/Express/SQL/Handle-bars/HTML/CSS",
+    //   link: "",
+    //   repo: "https://github.com/Diamante710/how_to_make_your_kids_hate_you.git",
+    // },
     {
       name: "Cocktail Master",
       description: "JavaScript/API Routes/HTML/CSS",
@@ -29,7 +29,7 @@ function Portfolio() {
       repo: "https://github.com/Diamante710/Social_Network_API.git",
     },
     {
-      name: "Employee_Tracker Back End",
+      name: "Employee Tracker Back End",
       description: "JavaScript/HTML/CSS/Bootstrap/MySql/Server-Side API",
       link: "https://drive.google.com/file/d/1faBIPnMOeSnk0WYbYmVt_KBxFJkQ9y1z/view",
       repo: "https://github.com/Diamante710/Employee_Tracker.git",

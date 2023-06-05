@@ -131,7 +131,7 @@ img {
 }
 
 span[role='img'] {
-  cursor: default;
+  cursor: pointer;
 }
 
 form {
@@ -353,6 +353,12 @@ textarea {
 
 .project-text a:hover {
   color: var(--darker);
+}
+
+.project-img {
+  width: fit-content;
+  height: fit-content;
+
 }
 
 .navActive {
