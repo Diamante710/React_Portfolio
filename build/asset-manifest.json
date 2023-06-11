@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React_Portfolio/static/css/main.7dbcf6ed.css",
+    "main.js": "/React_Portfolio/static/js/main.135d4207.js",
+    "static/js/787.1ed0c42c.chunk.js": "/React_Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Book Search Engine.jpg": "/React_Portfolio/static/media/Book Search Engine.706e1623575b770737ca.jpg",
+    "static/media/Cocktail Master.jpg": "/React_Portfolio/static/media/Cocktail Master.770babc6a8cb4fe839e1.jpg",
+    "static/media/Employee Tracker Back End.jpg": "/React_Portfolio/static/media/Employee Tracker Back End.301db147e1dea9397d2d.jpg",
+    "static/media/E-Commerce Back End.jpg": "/React_Portfolio/static/media/E-Commerce Back End.8c8176184f6447e61757.jpg",
+    "static/media/Social Network API Back End.jpg": "/React_Portfolio/static/media/Social Network API Back End.2480571ea6392eebd74b.jpg",
+    "static/media/HeaderImage.jpg": "/React_Portfolio/static/media/HeaderImage.144fd2810e5c7592e1e2.jpg",
+    "static/media/Selfie.jpg": "/React_Portfolio/static/media/Selfie.52ccf0ef28cd1288da76.jpg",
+    "index.html": "/React_Portfolio/index.html",
+    "main.7dbcf6ed.css.map": "/React_Portfolio/static/css/main.7dbcf6ed.css.map",
+    "main.135d4207.js.map": "/React_Portfolio/static/js/main.135d4207.js.map",
+    "787.1ed0c42c.chunk.js.map": "/React_Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dbcf6ed.css",
+    "static/js/main.135d4207.js"
+  ]
+}
